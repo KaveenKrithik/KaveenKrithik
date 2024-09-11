@@ -1,6 +1,5 @@
 -  Hi, I’m @KaveenKrithik
 -  I’m interested in webdev
--  I’m currently learning angular
 -  I’m looking to collaborate on projects that could upscale my portfolio
   
 
