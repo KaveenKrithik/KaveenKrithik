@@ -77,10 +77,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaveenKrithik&show_icons=true&theme=radical)
 
-- **Public Repos:** 39  
-- **Followers:** 17  
-- **Following:** 19
+- ** Repos:** 50
 
-## Skills & Technologies
 
-nextjs,react,nodejs,express,java,git,arduino,angular,mysql,supabase,firebase,mongodb,c,cpp,html,sass,tailwind,aws,github
