@@ -63,3 +63,24 @@
 </div>
 
 ###
+
+
+## Top Projects
+
+- [**KaveenKrithik**](https://github.com/KaveenKrithik/KaveenKrithik): Config files for my GitHub profile. **Stars:** 0, **Language:** N/A
+- [**kaveen-portfolio**](https://github.com/KaveenKrithik/kaveen-portfolio): My personal portfolio showcasing my work. **Stars:** 0, **Language:** TypeScript
+- [**Creatives-Control**](https://github.com/KaveenKrithik/Creatives-Control): A project to manage creative assets. **Stars:** 0, **Language:** TypeScript
+- [**CargoMaster**](https://github.com/KaveenKrithik/CargoMaster): An application for managing cargo logistics. **Stars:** 0, **Language:** TypeScript
+- [**Infringement-Scanner**](https://github.com/KaveenKrithik/Infringement-Scanner): A tool to scan for copyright infringements. **Stars:** 0, **Language:** N/A
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaveenKrithik&show_icons=true&theme=radical)
+
+- **Public Repos:** 39  
+- **Followers:** 17  
+- **Following:** 19
+
+## Skills & Technologies
+
+nextjs,react,nodejs,express,java,git,arduino,angular,mysql,supabase,firebase,mongodb,c,cpp,html,sass,tailwind,aws,github
