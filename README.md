@@ -67,7 +67,7 @@
 
 ## Top Projects
 
-- [**KaveenKrithik**](https://github.com/KaveenKrithik/KaveenKrithik): Config files for my GitHub profile. **Stars:** 0, **Language:** N/A
+- [**RepXplore**](https://github.com/KaveenKrithik/RepXplore): Customizable workout plans generator. **Stars:** 0, **Language:** N/A
 - [**ClubSphereV2**](https://github.com/KaveenKrithik/ClubSphereV2) Club Management Platform **Stars:** 0, **Language:** TypeScript
 - [**Creatives-Control**](https://github.com/KaveenKrithik/Creatives-Control): A project to manage creative assets. **Stars:** 0, **Language:** TypeScript
 
