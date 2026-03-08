@@ -7,147 +7,129 @@
 ██╔═██╗ ██╔══██║╚██╗ ██╔╝██╔══╝  ██╔══╝  ██║╚██╗██║
 ██║  ██╗██║  ██║ ╚████╔╝ ███████╗███████╗██║ ╚████║
 ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚══════╝╚══════╝╚═╝  ╚═══╝
+                                          K R I T H I K
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;ML+%26+AI+Enthusiast+%F0%9F%A4%96;Building+things+that+matter+%E2%9C%A8;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=3000&pause=1200&color=00FFD1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;ML+%2F+AI+Enthusiast;Building+things+that+matter;Open+Source+Contributor" alt="Typing SVG" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaveen-krithik-578797311/?originalSubdomain=in)
-[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/kaveenkrithik11)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaveenkrithik11@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/kaveeennnn/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaveen-krithik-578797311/?originalSubdomain=in)
+[![HackerRank](https://img.shields.io/badge/HACKERRANK-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/kaveenkrithik11)
+[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kaveenkrithik11@gmail.com)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/kaveeennnn/)
 
 </div>
 
+<br/>
+
 ---
-
-<img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjFlcHA3bTVnajZyMms5bGVvNnh0azA5NzBqODQ3cTliOXRnc2I0NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GAeH0yZbyggdq/giphy.gif" />
-
-### `> whoami`
 
 ```yaml
-name: Kaveen Krithik
-location: Chennai, India 🇮🇳
-role: Full Stack Developer & ML Enthusiast
-currently_learning: [AWS, System Design, Deep Learning]
-fun_fact: I debug with console.log and I'm not ashamed 🐛
-open_to: [Collaborations, Internships, Cool side projects]
-```
+# /sys/user/profile.yaml
 
-<br clear="right"/>
+identity:
+  name        : Kaveen Krithik
+  location    : Chennai, India
+  role        : Full Stack Developer / ML Enthusiast
+
+focus:
+  current     : [ AWS, System Design, Deep Learning ]
+  open_to     : [ Collaborations, Internships, Side Projects ]
+
+status        : online
+```
 
 ---
 
-### `> ls tech-stack/`
+<br/>
 
 <div align="center">
 
-**⚡ Frontend**
+**FRONTEND**
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/REACT-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**🛠️ Backend & Databases**
+**BACKEND + DATABASES**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-
-**🧠 AI / ML**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
-
-**☁️ Cloud & Tools**
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Java](https://img.shields.io/badge/JAVA-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MONGODB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MYSQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+
+**AI / ML**
+
+![TensorFlow](https://img.shields.io/badge/TENSORFLOW-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Kaggle](https://img.shields.io/badge/KAGGLE-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
+
+**CLOUD + TOOLS**
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=git&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/UBUNTU-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Arduino](https://img.shields.io/badge/ARDUINO-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Google](https://img.shields.io/badge/GOOGLE-4285F4?style=flat-square&logo=google&logoColor=white)
 
 </div>
-
----
-
-### `> cat projects.json`
-
-```json
-{
-  "projects": [
-    {
-      "name": "🏋️ RepXplore",
-      "description": "Customizable AI-powered workout plan generator",
-      "tech": ["Coming soon..."],
-      "link": "https://github.com/KaveenKrithik/RepXplore",
-      "status": "🔨 In Progress"
-    },
-    {
-      "name": "🎓 ClubSphereV2",
-      "description": "Full-featured Club Management Platform",
-      "tech": ["TypeScript", "Next.js", "MongoDB"],
-      "link": "https://github.com/KaveenKrithik/ClubSphereV2",
-      "status": "✅ Active"
-    },
-    {
-      "name": "🎨 Creatives-Control",
-      "description": "Smart platform to manage and track creative assets",
-      "tech": ["TypeScript"],
-      "link": "https://github.com/KaveenKrithik/Creatives-Control",
-      "status": "✅ Active"
-    }
-  ]
-}
-```
-
----
-
-### `> cat github-stats.sh`
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaveenKrithik&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaveenKrithik&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=KaveenKrithik&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
-### `> ping kaveen`
-
-<div align="center">
-
-```
-Packets sent: ∞   Received: ∞   Lost: 0
-Response: Always up for building something cool 🚀
-```
 
 <br/>
 
-**If you've made it this far, you might as well say hi 👋**
+---
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaveen-krithik-578797311/?originalSubdomain=in)
+### PROJECTS
 
 <br/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=KaveenKrithik&color=00d9ff&style=flat-square&label=PROFILE+VIEWS)
+```
++---------------------------+------------------------------------------+------------+
+| PROJECT                   | DESCRIPTION                              | STACK      |
++---------------------------+------------------------------------------+------------+
+| RepXplore                 | Customizable workout plan generator      | TBD        |
+| ClubSphereV2              | Full-featured Club Management Platform   | TypeScript |
+| Creatives-Control         | Platform to manage creative assets       | TypeScript |
++---------------------------+------------------------------------------+------------+
+```
+
+> [RepXplore](https://github.com/KaveenKrithik/RepXplore) &nbsp;·&nbsp; [ClubSphereV2](https://github.com/KaveenKrithik/ClubSphereV2) &nbsp;·&nbsp; [Creatives-Control](https://github.com/KaveenKrithik/Creatives-Control)
 
 ---
 
-*crafted with* `</>` *and way too much coffee ☕*
+### STATS
+
+<br/>
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=KaveenKrithik&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&title_color=00FFD1&icon_color=00FFD1&text_color=c9d1d9&bg_color=0d1117"/>
+&nbsp;&nbsp;
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaveenKrithik&layout=compact&langs_count=8&theme=github_dark&hide_border=true&title_color=00FFD1&text_color=c9d1d9&bg_color=0d1117"/>
+
+<br/><br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=KaveenKrithik&theme=github-dark-blue&hide_border=true&ring=00FFD1&fire=00FFD1&currStreakLabel=00FFD1)](https://git.io/streak-stats)
 
 </div>
 
+<br/>
 
+---
+
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=KaveenKrithik&color=00FFD1&style=flat-square&label=PROFILE+VIEWS)
+
+<br/>
+
+```
+// if you made it this far — let's build something.
+```
+
+[![LinkedIn](https://img.shields.io/badge/CONNECT-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaveen-krithik-578797311/?originalSubdomain=in)
+
+</div>
