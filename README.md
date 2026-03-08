@@ -25,6 +25,8 @@
 
 ---
 
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjFlcHA3bTVnajZyMms5bGVvNnh0azA5NzBqODQ3cTliOXRnc2I0NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GAeH0yZbyggdq/giphy.gif" />
+
 ```yaml
 # /sys/user/profile.yaml
 
@@ -39,6 +41,8 @@ focus:
 
 status        : online
 ```
+
+<br clear="right"/>
 
 ---
 
@@ -86,17 +90,46 @@ status        : online
 
 <br/>
 
+<details>
+<summary><code>[ DhartiLink ]</code> &nbsp;—&nbsp; click to expand</summary>
+<br/>
+
 ```
-+---------------------------+------------------------------------------+------------+
-| PROJECT                   | DESCRIPTION                              | STACK      |
-+---------------------------+------------------------------------------+------------+
-| RepXplore                 | Customizable workout plan generator      | TBD        |
-| ClubSphereV2              | Full-featured Club Management Platform   | TypeScript |
-| Creatives-Control         | Platform to manage creative assets       | TypeScript |
-+---------------------------+------------------------------------------+------------+
+  A platform bridging the gap between rural land and digital access.
+  Built to connect, empower, and scale across communities.
 ```
 
-> [RepXplore](https://github.com/KaveenKrithik/RepXplore) &nbsp;·&nbsp; [ClubSphereV2](https://github.com/KaveenKrithik/ClubSphereV2) &nbsp;·&nbsp; [Creatives-Control](https://github.com/KaveenKrithik/Creatives-Control)
+[![View Repo](https://img.shields.io/badge/VIEW_REPO-0d1117?style=flat-square&logo=github&logoColor=00FFD1)](https://github.com/KaveenKrithik/DhartiLink)
+
+</details>
+
+<details>
+<summary><code>[ Chompp ]</code> &nbsp;—&nbsp; click to expand</summary>
+<br/>
+
+```
+  A food-focused platform built for discovery, reviews, and cravings.
+  Sleek, fast, and built around how people actually eat.
+```
+
+[![View Repo](https://img.shields.io/badge/VIEW_REPO-0d1117?style=flat-square&logo=github&logoColor=00FFD1)](https://github.com/KaveenKrithik/Chompp)
+
+</details>
+
+<details>
+<summary><code>[ ClubSphere ]</code> &nbsp;—&nbsp; click to expand</summary>
+<br/>
+
+```
+  Full-featured Club Management Platform.
+  Streamlines events, memberships, and communication at scale.
+```
+
+[![View Repo](https://img.shields.io/badge/VIEW_REPO-0d1117?style=flat-square&logo=github&logoColor=00FFD1)](https://github.com/KaveenKrithik/ClubSphereV2)
+
+</details>
+
+<br/>
 
 ---
 
@@ -115,6 +148,20 @@ status        : online
 [![GitHub Streak](https://streak-stats.demolab.com?user=KaveenKrithik&theme=github-dark-blue&hide_border=true&ring=00FFD1&fire=00FFD1&currStreakLabel=00FFD1)](https://git.io/streak-stats)
 
 </div>
+
+<br/>
+
+---
+
+<details>
+<summary><code>[ activity graph ]</code></summary>
+<br/>
+<div align="center">
+
+[![Kaveen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KaveenKrithik&theme=github-compact&hide_border=true&color=00FFD1&line=00FFD1&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+</details>
 
 <br/>
 
